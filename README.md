@@ -1,6 +1,6 @@
 # Practico4
 
-## Archivos Gitingnore
+## Archivos Gitignore
 
 Un archivo .gitignore es un archivo utilizado en el sistema de control de versiones "git" para especificar los archivos y directorios que no deben ser rastreados por git, .gitignore es un archivo de texto que le dice a Git qué otros archivos y carpetas de un proyecto debe ignorar. Un archivo .gitignore local se coloca normalmente en el directorio de origen de un proyecto, también se puede crear un archivo.
 
